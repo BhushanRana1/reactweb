@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactweb/static/css/main.c52d8137.css",
+    "main.js": "/reactweb/static/js/main.02bd538a.js",
+    "static/js/787.96b810fc.chunk.js": "/reactweb/static/js/787.96b810fc.chunk.js",
+    "static/media/website-developments.jpg": "/reactweb/static/media/website-developments.bd5f8ebd630ca348232e.jpg",
+    "static/media/network-marketing.jpg": "/reactweb/static/media/network-marketing.4f02359ec281f20a90ac.jpg",
+    "static/media/app-develop.avif": "/reactweb/static/media/app-develop.ec9f94a67eac87c7ed87.avif",
+    "static/media/Software-Develop.jpg": "/reactweb/static/media/Software-Develop.d967abb58fda25fe9842.jpg",
+    "static/media/digital-marketing.avif": "/reactweb/static/media/digital-marketing.010ab1b34b5221f7df17.avif",
+    "static/media/download1.jpg": "/reactweb/static/media/download1.98dd8a7856301791c488.jpg",
+    "static/media/web-developm.jpg": "/reactweb/static/media/web-developm.9b8b84ad1fad3b0390c1.jpg",
+    "static/media/android-develop.jpg": "/reactweb/static/media/android-develop.ae34b0e0b724360e859f.jpg",
+    "static/media/grow_business_website.png": "/reactweb/static/media/grow_business_website.031bfe690d89e5c4d5f8.png",
+    "index.html": "/reactweb/index.html",
+    "main.c52d8137.css.map": "/reactweb/static/css/main.c52d8137.css.map",
+    "main.02bd538a.js.map": "/reactweb/static/js/main.02bd538a.js.map",
+    "787.96b810fc.chunk.js.map": "/reactweb/static/js/787.96b810fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52d8137.css",
+    "static/js/main.02bd538a.js"
+  ]
+}
