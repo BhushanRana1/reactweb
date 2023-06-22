@@ -24,7 +24,7 @@ function Contact() {
         })
     }
     return (
-        <div>
+        <div className='mb-5'>
             <div className='my-5'>
                 <h1 className='text-center'>Contact Us</h1>
             </div>
@@ -76,7 +76,7 @@ function Contact() {
                                     rows="3"></textarea>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-outline-primary" 
+                                <button class="btn btn-outline-primary"
                                 type="submit">Submit form</button>
                             </div>
                         </form>

@@ -2,10 +2,8 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>
-        <Footer className='w-100 bg-light text-center'>
-            <p>© 2023 React Website. All Rights Reserved | Terms and Conditions.</p>
-        </Footer>
+    <div className='w-100 bg-light text-center'>
+        <p>© 2023 React Website. All Right Reserved | Term and Condition</p>
     </div>
   )
 }

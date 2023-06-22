@@ -6,8 +6,8 @@ import Service from './Components/Service';
 import Contact from './Components/Contact';
 import About from './Components/About';
 import Navbar from './Components/Navbar';
-import Footer from "./Components/Footer";
 import './App.css';
+import Footer from "./Components/Footer";
 
 
 function App() {

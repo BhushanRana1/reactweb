@@ -97,6 +97,7 @@
 
   #header .header-img{
     text-align: center;
+    margin-top: 50px;
   }
 
   #header .header-img img {
@@ -118,5 +119,6 @@
 
   #header .header-img img {
     width: 70%;
+    margin-top: 15%;
   }
 }
